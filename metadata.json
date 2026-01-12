@@ -1,0 +1,5 @@
+{
+  "name": "תזכורות בית חולים וולפסון אף אוזן גרון",
+  "description": "A WhatsApp-style digital companion for patients of the ENT department at Wolfson Medical Center, guiding them through the pre-surgery process.",
+  "requestFramePermissions": []
+}
